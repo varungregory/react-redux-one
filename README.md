@@ -23,11 +23,6 @@ NodeJS :
 - Go to nodejs.org
 - download the latest version (10.13.0.lts)
 
-Github
--varungregory
--gregory_paul@hotmail.com
--MereGitHub2018$$
-
 
 https://github.com/iamshaunjp/react-redux-complete-playlist.git
 https://github.com/iamshaunjp/react-redux-complete-playlist.git
