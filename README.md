@@ -57,3 +57,9 @@ Steps to create a react app
 npx create-react-app myapp
 cd myapp
 npm start
+
+Two types of components in React
+- UI Component : UI component are function based components that does not need a state.  Its purpose is to receive props
+  and present it in the user interface
+- Container Component  : Container components are class based componets that have a state 
+
