@@ -1,7 +1,3 @@
-# react-redux-one
-react-redux one
-
-
 React Redux tutorial.
 
 https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
@@ -18,7 +14,46 @@ Componenets installed in VSCode
 - ES7 React/Redux/GraphQL/React Native Snippets
 - Sublime Babel
 - Monokai ++ Theme
+- Live Server
+
+Chrome extension
+- React developer tools : https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+NodeJS :
+- Go to nodejs.org
+- download the latest version (10.13.0.lts)
+
+Github
+-varungregory
+-gregory_paul@hotmail.com
+-MereGitHub2018$$
+
 
 https://github.com/iamshaunjp/react-redux-complete-playlist.git
+https://github.com/iamshaunjp/react-redux-complete-playlist.git
+
 
 https://github.com/varungregory/react-redux-one.git
+
+
+When should a function be declared as an arrow function
+=======================================================
+If we need to use the this keyword inside our javascript functions then the functions
+have to be declared as arrow functions. for e.g.
+
+handleMouseOver = (e) => {
+    console.log (this.state.name)
+}
+
+instead of 
+
+handleMouseOver(e){
+}
+
+
+
+Steps to create a react app
+- https://github.com/facebook/create-react-app
+npx create-react-app myapp
+cd myapp
+npm start
