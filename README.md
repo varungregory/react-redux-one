@@ -48,10 +48,15 @@ handleMouseOver(e){
 
 
 Steps to create a react app
+===========================
 - https://github.com/facebook/create-react-app
 - npx create-react-app myapp
 - cd myapp
 - npm start
+
+- npm install react-router-dom  ( this is to install react router dom in projects where routing has to be done among multiple
+  templates)
+
 
 Two types of components in React
 ================================
