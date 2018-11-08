@@ -59,3 +59,7 @@ Two types of components in React
   and present it in the user interface
 - Container Component  : Container components are class based componets that have a state 
 
+
+Materialized CSS CDN
+--------------------
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">    
