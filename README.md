@@ -56,8 +56,9 @@ Steps to create a react app
 Two types of components in React
 ================================
 - UI Component : UI component are function based components that does not need a state.  Its purpose is to receive props
-  and present it in the user interface
-- Container Component  : Container components are class based componets that have a state 
+  and present it in the user interface.  function base templates/components will not have a render() method.
+- Container Component  : Container components are class based componets that have a state. class based components will have a render()
+  method
 
 
 Materialized CSS CDN
