@@ -57,6 +57,7 @@ Steps to create a react app
 - npm install react-router-dom  ( this is to install react router dom in projects where routing has to be done among multiple
   templates)
 
+- npm install axios 
 
 Two types of components in React
 ================================
@@ -70,3 +71,14 @@ Materialized CSS CDN
 --------------------
 https://materializecss.com/getting-started.html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">    
+
+Fake API Calls URL
+==================
+https://jsonplaceholder.typicode.com/
+/posts 	100 posts
+/comments 	500 comments
+/albums 	100 albums
+/photos 	5000 photos
+/todos 	200 todos
+/users 	10 users
+
