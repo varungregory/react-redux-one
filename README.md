@@ -1,7 +1,10 @@
 React Redux tutorial.
-
 https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
 
+React Redux with Firebase
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
+
+React CDN
 https://reactjs.org/docs/cdn-links.html
 
 <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
