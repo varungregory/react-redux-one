@@ -59,6 +59,8 @@ Steps to create a react app
 
 - npm install axios 
 
+- npm install redux react-redux 
+
 Two types of components in React
 ================================
 - UI Component : UI component are function based components that does not need a state.  Its purpose is to receive props
