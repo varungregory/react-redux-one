@@ -56,13 +56,11 @@ Steps to create a react app
 - npx create-react-app myapp
 - cd myapp
 - npm start
-
 - npm install react-router-dom  ( this is to install react router dom in projects where routing has to be done among multiple
   templates)
-
 - npm install axios 
-
 - npm install redux react-redux 
+- npm install redux-thunk
 
 Two types of components in React
 ================================
