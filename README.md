@@ -66,6 +66,8 @@ Steps to create a react app
 - npm install redux react-redux 
 - npm install redux-thunk
 - npm install firebase
+- npm install react-redux-firebase redux-firestore
+
 
 Two types of components in React
 ================================
