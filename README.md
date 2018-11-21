@@ -7,6 +7,10 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
 React CDN
 https://reactjs.org/docs/cdn-links.html
 
+Firebase
+www.firebase.google.com
+
+
 <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
 
@@ -61,6 +65,7 @@ Steps to create a react app
 - npm install axios 
 - npm install redux react-redux 
 - npm install redux-thunk
+- npm install firebase
 
 Two types of components in React
 ================================
