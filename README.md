@@ -8,7 +8,7 @@ React CDN
 https://reactjs.org/docs/cdn-links.html
 
 Firebase
-www.firebase.google.com
+https://firebase.google.com/
 
 
 <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
