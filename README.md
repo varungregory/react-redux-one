@@ -67,6 +67,7 @@ Steps to create a react app
 - npm install redux-thunk
 - npm install firebase
 - npm install react-redux-firebase redux-firestore
+- npm install moment // this is for formating dates etc.
 
 
 Two types of components in React
