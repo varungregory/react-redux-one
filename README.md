@@ -72,7 +72,8 @@ Steps to create a react app
 Packages installed for Udemy Course
 - npm install --save radium 
   ( react package for inline style with psuedo selectors and media queries.  --save will add entry into package.jason )
-  
+- npm run eject (eject from package manager updating configuration files each time npm install is executed)
+
 Two types of components in React
 ================================
 - UI Component : UI component are function based components that does not need a state.  Its purpose is to receive props
