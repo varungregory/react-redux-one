@@ -75,6 +75,7 @@ Packages installed for Udemy Course
 - npm run eject (eject from package manager updating configuration files each time npm install is executed)
 - npm install --save prop-types 
   (library to set up validation for incoming prop values)
+- npm install --save axios
   
 Two types of components in React
 ================================
