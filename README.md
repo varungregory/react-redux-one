@@ -76,7 +76,8 @@ Packages installed for Udemy Course
 - npm install --save prop-types 
   (library to set up validation for incoming prop values)
 - npm install --save axios
-  
+- npm install --save react-router react-router-dom
+
 Two types of components in React
 ================================
 - UI Component : UI component are function based components that does not need a state.  Its purpose is to receive props
