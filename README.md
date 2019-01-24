@@ -100,3 +100,10 @@ https://jsonplaceholder.typicode.com/
 - /todos 	200 todos
 - /users 	10 users
 
+Usefull resources
+=================
+- Generate CSS Spinners : https://projects.lukehaas.me/css-loaders/
+- CodePen : Codepen.io
+- Firebase : firebase.google.com
+
+
