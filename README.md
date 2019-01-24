@@ -77,6 +77,8 @@ Packages installed for Udemy Course
   (library to set up validation for incoming prop values)
 - npm install --save axios
 - npm install --save react-router react-router-dom
+  We installed both react-router  and react-router-dom . Technically, only react-router-dom  is required for web development. 
+  It wraps react- router  and therefore uses it as a dependency. 
 
 Two types of components in React
 ================================
